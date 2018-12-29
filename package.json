@@ -12,7 +12,8 @@
   "dependencies": {
     "body-parser": "1.18.3",
     "errorhandler": "1.5.0",
-    "mongodb": "3.1.10",
+    "express": "4.16.4",
+    "mongodb": "2.2.36",
     "morgan": "1.9.1"
   }
 }
