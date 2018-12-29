@@ -9,3 +9,12 @@ Also I used the npm package MongoUI which allowed me to check the status of my d
 I really enjoy MongoDB thus far, but I will have to dig deeper into it since I implemented very simple CRUD operations.
 
 This was my first time using a NoSQL database.
+
+step 1
+start mongod
+step 2
+start node
+step 3
+test endpoints using curl
+step 4
+use mongoui to check on status of persisted data
